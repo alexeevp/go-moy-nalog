@@ -1,4 +1,4 @@
-module github.com/shoman4eg/go-moy-nalog
+module github.com/alexeevp/go-moy-nalog
 
 go 1.19
 
